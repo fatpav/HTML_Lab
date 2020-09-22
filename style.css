@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: floralwhite;
+}
+nav > ul {
+    list-style: none;
+}
+
+body > header > nav > ul > li > a {
+    color: floralwhite;
+}
+
+body > footer {
+    background-color: dodgerblue;
+    color: floralwhite;
+    text-align: center;
+}
